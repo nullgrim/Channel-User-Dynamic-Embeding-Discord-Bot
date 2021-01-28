@@ -1,6 +1,6 @@
 module.exports = {
-  name: "test", // Commad name
-  aliases: ["te", "t"], // Command aliases
+  name: "example", // Commad name
+  aliases: ["ex", "e"], // Command aliases
   webhooks: [
     "https://discord.com/api/webhooks/8035.../VsR...",
     "https://discord.com/api/webhooks/8035.../01DG..."
