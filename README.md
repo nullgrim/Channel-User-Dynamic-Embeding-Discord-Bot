@@ -1,7 +1,5 @@
 # Channel & User Dynamic Embedding Discord Bot
-
-## What does the "Channel & User Dynamic Embedding Discord Bot" do?
-Well as the name would suggest, it's a Discord bot written in Node.js that embeds multiple messages across multiple servers.
+As the name would suggest, this is a Discord bot written in Node.js that embeds multiple messages across multiple servers.
 If you ever wanted to be able to run a simple prefixed command unique to a user in order to create an embedded message response then simultaneously parse it to multiple channels across discord servers, this bot will do just that with ease.
 
 ## How does it work?
