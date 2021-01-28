@@ -1,1 +1,1 @@
-# Channel-User-Dynamic-Embeding-Discord-Bot
+# Channel & User Dynamic Embeding Discord Bot
