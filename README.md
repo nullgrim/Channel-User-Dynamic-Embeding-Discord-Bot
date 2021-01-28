@@ -12,6 +12,8 @@ By utilizing the webhooks on discord we are capable of sending messages across m
 ### Requirements:
 * **NodeJS**
 ```npm i npm@latest -g```
+* **DiscordJS**
+```npm i discord.js```
 * **File-System**
 ```npm i file-system```
 * **Path**
