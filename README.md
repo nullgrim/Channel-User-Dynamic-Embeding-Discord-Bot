@@ -21,6 +21,7 @@ By utilizing the webhooks on discord we are capable of sending messages across m
 
 Add your Discord Bot Token in the `config.json` file located in the `util` directory.
 You can add new users to the bot simply by cloning existent directories or creating new ones, then rename the folder to their Discord ID.
+
 Every user directory should have a `config.json` file of which contains a `prefix`, the prefix can be personalized per user.
 You can create more commands simply by cloning the `template` file and editing them accordingly.
 
