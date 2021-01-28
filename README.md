@@ -1,13 +1,13 @@
-<h1>Channel & User Dynamic Embeding Discord Bot</h1>
+# Channel & User Dynamic Embeding Discord Bot
 
-<h3>Requirements:</h3>
-<b>NodeJS</b><br>
+### Requirements:
+**NodeJS**
 ```npm i npm@latest -g```
-<b>File-System</b><br>
+**File-System**
 ```npm i file-system```
-<b>Path</b><br>
+**Path**
 ```npm i path```
-<b>Discord Webhook Node</b><br>
+**Discord Webhook Node**
 ```npm i path```
 
-<h2>What does the "Channel & User Dynamic Embeding Discord Bot" do?</h2>
+## What does the "Channel & User Dynamic Embeding Discord Bot" do?
